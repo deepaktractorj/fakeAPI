@@ -13,16 +13,5 @@
         "data": {"id": "42", "type": "people"}
       }
     }
-  }],
-  "included": [
-    {
-      "type": "people",
-      "id": "42",
-      "attributes": {
-        "name": "John",
-        "age": 80,
-        "gender": "male"
-      }
-    }
-  ]
+  }]
 }
